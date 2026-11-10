@@ -10,6 +10,8 @@ I'm a heavy-equipment operator learning to build useful software with AI-assiste
 
 🌐 [Explore the AURA portfolio](https://lynx-5m3495.my.canva.site/) — a work-in-progress introduction to the projects and the person building them.
 
+📋 **[What I've actually built — AURA project notes](./PROJECTS.md)** — what works, what's still in development, and the lessons along the way.
+
 ## What I'm working on
 
 ### AURA — personal AI
