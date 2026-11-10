@@ -6,6 +6,10 @@ I work with big machines. Then I got curious about building a different kind of 
 
 I'm a heavy-equipment operator learning to build useful software with AI-assisted tools. I'm interested in how things work, why they break, and whether there's a smarter way to solve real problems.
 
+## My AURA website
+
+🌐 [Explore the AURA portfolio](https://lynx-5m3495.my.canva.site/) — a work-in-progress introduction to the projects and the person building them.
+
 ## What I'm working on
 
 ### AURA — personal AI
