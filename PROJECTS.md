@@ -32,9 +32,11 @@ No employer-specific records, real fleet information, private source code, crede
 - **A passing test isn't the finish line.** A person has to be able to use the result reliably.
 - **Humour helps.** Sometimes the best feature request is: “Can my AI stop writing a novel and just shoot the shit?” 😄
 
-## Next proof I'd like to show
+## Try the public-safe interactive demo
 
-A short, public-safe demonstration using **synthetic data only**: what the app does, where it succeeds, what still needs work, and what I've learned building it.
+🧪 **[Launch the AURA Maintenance interactive demo](https://dcrowchief007-lgtm.github.io/dcrowchief007-lgtm/)**
+
+This standalone, browser-based concept demonstration uses **fictional equipment, inspections, readings, and work orders**. It illustrates how maintenance workflows can connect, including inspection findings creating repair tasks. It is **not** the paused Windows AURA Maintenance application, a live fleet system, or evidence that the original product is ready for release. Nothing entered here is shared with the real fleet.
 
 I'm not claiming to have invented a foundation model or finished J.A.R.V.I.S. I'm building something practical, learning as I go, and keeping the claims tied to what I can demonstrate.
 
