@@ -12,6 +12,8 @@ I'm a heavy-equipment operator learning to build useful software with AI-assiste
 
 📋 **[What I've actually built — AURA project notes](./PROJECTS.md)** — what works, what's still in development, and the lessons along the way.
 
+🧪 **[Try the interactive AURA Maintenance demo](https://dcrowchief007-lgtm.github.io/dcrowchief007-lgtm/)** — a standalone concept walkthrough using fictional equipment and practice records, not the original application.
+
 ## What I'm working on
 
 ### AURA — personal AI
